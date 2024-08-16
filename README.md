@@ -2,13 +2,13 @@
 
 # About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m an Passionate Backend-Developer
+- 🌱 I’m currently learning Javascript.
+- 💻 I use daily: .py, .sql
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🤔 I’m looking for help with building awesome Sowtware Desings.
+- 💬 Ask me about Coding, Pc building, Gaming
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🧑‍💻 Tech I work on:
 
@@ -23,3 +23,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
+
+## 📊 GitHub Stats
+
+![Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=keemo09&show_icons=true&theme=radical)
