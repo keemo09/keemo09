@@ -5,7 +5,6 @@
 - 🔭 I’m an Passionate Backend-Developer
 - 🌱 I’m currently learning Javascript.
 - 💻 I use daily: .py, .sql
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with building awesome Sowtware Desings.
 - 💬 Ask me about Coding, Pc building, Gaming
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dein-profil)](https://www.linkedin.com/in/karim-maged96/)
